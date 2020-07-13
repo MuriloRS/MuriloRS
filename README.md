@@ -1,4 +1,4 @@
-### https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif Hello, world!
+### Hello, world!
 
 - 🔭 I’m currently working on Imply and freelancer projects.
 - 🌱 I’m currently learning Flutter and Dart
