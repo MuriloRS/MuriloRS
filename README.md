@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Imply
+- 🔭 I’m currently working on Imply and freelancer projects.
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on mobile apps
 - 🤔 I’m looking for help with arquitecture in Flutter
