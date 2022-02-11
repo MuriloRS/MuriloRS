@@ -1,6 +1,6 @@
 ### Hello, world!
 
-- 🔭 I’m currently working on Imply and freelancer projects.
+- 🔭 I’m currently working at Loft
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on mobile apps
 - 🤔 I’m looking for help with arquitecture in Flutter
