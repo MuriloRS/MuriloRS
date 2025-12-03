@@ -1,8 +1,7 @@
-### Hello, world!
-Senior Fullstack Software Engineer
+### Senior Fullstack Software Engineer (Loft)
 
-I'm a Software Engineer at Loft, one of the biggest startups in Brazil, where I specialize in React, Next.js and TypeScript, working mainly with squads focused on the top of the funnel. I collaborate closely with the product team, performing A/B tests, implementing automated tests and monitoring. This participation allows me to optimize the user experience, boost conversion rates and contribute to the development process by incorporating best practices.
+I am a Software Engineer at Loft, one of Brazil’s largest startups, where I specialize in React, Next.js, and TypeScript. My work is primarily focused on squads dedicated to top-of-funnel initiatives, in close collaboration with the product team. In this capacity, I conduct A/B testing, implement automated testing frameworks, and ensure ongoing monitoring to maintain system reliability and user satisfaction. This role enables me to refine the user experience, increase conversion rates, and enhance the development process by integrating best practices.
 
-- 📫 How to reach me: murilo_haas@outlook.com
-- ⚡ My app iFix (suggestions are welcome): https://play.google.com/store/apps/details?id=com.ifix.developer
+- 📫 How to reach me: https://www.linkedin.com/in/murilo-haas/
+- ⚡ My app iFix: https://play.google.com/store/apps/details?id=com.ifix.developer
 
